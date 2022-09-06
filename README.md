@@ -1,2 +1,2 @@
 # telegram_statistics
-Export Statistics from a Telegram Group Chat
+Export Statistics from a Telegram Group Chat.
